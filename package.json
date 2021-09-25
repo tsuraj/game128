@@ -3,10 +3,6 @@
   "version": "1.0.0",
   "description": "creating an game similar to game 2048",
   "main": "main.js",
-  "engines": {
-    "node": "0.12.0",
-    "npm": "2.5.0"
-  },
   "scripts": {
     "dev": "lite-server",
     "test": "echo \"Error: no test specified\" && exit 1"
